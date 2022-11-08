@@ -1,0 +1,27 @@
+
+  
+  li{
+    display: inline;
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: BentonSans,'Courier New', Courier, monospace;
+  
+  }
+  
+  li:hover {
+    background-color: rgb(8, 8, 8);
+    scale: .05px;
+  
+  }
+
+  .top-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  

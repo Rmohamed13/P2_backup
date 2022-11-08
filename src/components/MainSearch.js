@@ -35,7 +35,7 @@ return (
                 }}
                 /> 
                 
-                <button className="search-button" onClick={() => {
+                <button className="button" onClick={() => {
                     characterFetch()
                 }}>Search
                 </button>

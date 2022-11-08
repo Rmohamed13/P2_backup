@@ -34,15 +34,6 @@ function Character({character}) {
   })
   
 
-  
-
-
-
-
-
-
-
-
   useEffect(() => {
     window.scrollTo(0, 0)
   }, [])
